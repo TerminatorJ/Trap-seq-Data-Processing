@@ -1,2 +1,2 @@
 # Trap-seq-Data-Processing
-The scripts of score comparison shown in the Trap-seq paper
+The scripts of scores comparison shown in the Trap-seq paper
